@@ -1,0 +1,13 @@
+name: data-inspection
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - dask
+  - ipykernel
+  - ipython
+  - ipywidgets
+  - matplotlib
+  - numpy
+  - scipy
+  - xarray
